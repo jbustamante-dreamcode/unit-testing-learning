@@ -1,0 +1,15 @@
+.vscode/
+node_modules/
+node_modules.git/
+.npm
+.project
+environment.bat
+.cfignore
+npm-debug*
+*manifest*.yml
+*.log*
+.nyc_output/
+package-lock.json
+~/Documents/redis-6.2.6
+redis-6.2.6/deps/hiredis/adapters/glib.h
+redis-6.2.6/*
